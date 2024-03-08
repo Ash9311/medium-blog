@@ -1,8 +1,8 @@
 name = "medium-blog"
 compatibility_date = "2023-12-01"
 
-# [vars]
-# MY_VARIABLE = "production_value"
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNWZiZjYzZWYtNDU0Ny00MmI2LWE3ZTQtM2ZlMWIyNjliMDQ1IiwidGVuYW50X2lkIjoiOTU4YWQ4N2NjN2MzYjMzMjU1NWM1MTI1MGQ1MjRmNWJlMDAzNjA4ZDMxYzc2NjlhN2ZmYjg5Njg1Y2I1MjZiNCIsImludGVybmFsX3NlY3JldCI6IjlkM2ZiMmI0LWZlMDYtNDhjNS1iYWY0LWMzODk0MzQwYmM4NCJ9.jAvnguiFQVksxTh9PTGpfIZ_bAf-y9cns1iM6kRGcV0"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
